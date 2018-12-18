@@ -23,7 +23,7 @@ This is Kubernetes Deployment With kubespray
 
 ## Schema
 <p align="center">
-<a href="https://github.com/peppiii/Kubernetes/blob/kubespray/topologi/kubespray.png"><img src="https://github.com/peppiii/Kubernetes/blob/kubespray/topologi/kubespray.png" width= 100% alt="Build Status"></a>
+<a href="https://github.com/peppiii/deploy-kubespray/blob/master/topologi/kubespray.png"><img src="https://github.com/peppiii/deploy-kubespray/blob/master/topologi/kubespray.png" width= 100% alt="Build Status"></a>
 
 ## Install
 ```bash
